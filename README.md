@@ -7,13 +7,13 @@ Full Stack Web Application aimed to make process of hiring easy and convenient. 
 Steps to set up
 
 Client - 
-1. git clone https://github.com/praveennegi420/instant-hire
+1. git clone https://github.com/abhishekgusain07/instant-hire
 2. cd client
 3. npm i
 4. npm run dev
 
 Server -
-1. git clone https://github.com/praveennegi420/instant-hire
+1. git clone https://github.com/abhishekgusain07/instant-hire
 2. cd server
 3. npm i
 4. nodemon index
